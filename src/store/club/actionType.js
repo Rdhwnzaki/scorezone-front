@@ -1,0 +1,14 @@
+export const CLUB_LOADING = "CLUB_LOADING";
+export const CLUB_RESET = "CLUB_RESET";
+export const GET_CLUB = "GET_CLUB";
+export const GET_CLUB_SUCCESS = "GET_CLUB_SUCCESS";
+export const GET_CLUB_FAIL = "GET_CLUB_FAIL";
+export const DELETE_CLUB = "DELETE_CLUB"
+export const DELETE_CLUB_SUCCESS = "DELETE_CLUB_SUCCESS"
+export const DELETE_CLUB_FAIL = "DELETE_CLUB_FAIL"
+export const UPDATE_CLUB = "UPDATE_CLUB"
+export const UPDATE_CLUB_SUCCESS = "UPDATE_CLUB_SUCCESS"
+export const UPDATE_CLUB_FAIL = "UPDATE_CLUB_FAIL"
+export const ADD_NEW_CLUB = "ADD_NEW_CLUB"
+export const ADD_CLUB_SUCCESS = "ADD_CLUB_SUCCESS"
+export const ADD_CLUB_FAIL = "ADD_CLUB_FAIL"
